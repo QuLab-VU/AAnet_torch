@@ -1,0 +1,23 @@
+name: AAnet-torch
+channels:
+  - conda-forge
+  - bioconda
+  - pytorch
+dependencies:
+  - pip
+  - pytorch
+  - torchvision
+  - numpy
+  - matplotlib
+  - scipy
+  - phate
+  - scikit-learn
+  - scikit-learn-intelex 
+  - python-spams
+  - networkx
+  - jupyter
+  - jupyterlab
+  - graphtools
+  - seaborn
+  
+  
